@@ -1,11 +1,12 @@
+
 class OddEven
 {
-	public bool isOdd(int aNum)
+	public static bool isOdd(int aNum)
 	{
 		return ((aNum % 2) == 1);
 	}
 	
-	public bool isEven(int aNum)
+	public static bool isEven(int aNum)
 	{
 		return ((aNum % 2) == 0);
 	}
