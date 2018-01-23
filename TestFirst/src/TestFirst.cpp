@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : TestFirst.cpp
-// Author      : Saumya
+// Author      : Saumya Nigam
 // Version     :
-// Copyright   : Your copyright notice
+// Copyright   : No copyright :)
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
